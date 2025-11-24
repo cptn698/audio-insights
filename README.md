@@ -1,3 +1,8 @@
+<img width="499" height="439" alt="image" src="https://github.com/user-attachments/assets/a2cb45a8-88de-4301-b91e-023f76986da6" />
+
+
+
+
 # audio-insights
 Audio analysis project (spectrograms, SPL, pressure)
 
